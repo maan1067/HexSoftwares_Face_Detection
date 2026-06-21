@@ -20,19 +20,7 @@ An Artificial Intelligence Face Detection application built using OpenCV and Str
 - Pillow
 - Streamlit WebRTC
 
-## 📸 Screenshots
 
-### Home Page
-
-(Add Screenshot Here)
-
-### Image Detection
-
-(Add Screenshot Here)
-
-### Live Camera Detection
-
-(Add Screenshot Here)
 
 ## ▶ Run Project
 
